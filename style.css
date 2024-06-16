@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+.input-container {
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+.hidden {
+    display: none;
+}
